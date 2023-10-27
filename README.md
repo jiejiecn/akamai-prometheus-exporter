@@ -8,6 +8,13 @@ Copy config.py.template to config.py
 Modify the parameter 
 run with  "Python exportor.py"
 
+Prometheus Metrics
+http://localhost:9000
+
+
+Grafana Demo</br>
+
+<img src="grafana.PNG">
 
 
 性能指标（Metrics） </br>
