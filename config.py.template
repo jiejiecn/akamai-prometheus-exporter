@@ -1,0 +1,15 @@
+###############################################################
+
+hostPort = 9000
+hostAddr = "0.0.0.0"
+
+
+##############################################################
+# Elasticsearch 地址、账号
+elastic_host = "http://elastic:9200/"
+elastic_user = "elastic"
+elastic_pass = "elastic"
+
+
+# Akamai Datastream 索引名称（或者Alias）
+datastream_idx = "datastream2"
