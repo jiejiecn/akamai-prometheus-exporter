@@ -4,11 +4,11 @@ Akamai CDN Metrics based on DataStream2
 Backend storage based on Elasticsearch, support 7.x/8.x
 
 
-Copy config.py.template to config.py
-Modify the parameter 
-run with  "Python exportor.py"
+Copy config.py.template to config.py </br>
+Modify the parameter  </br>
+run with  "Python exportor.py" </br>
 
-Prometheus Metrics
+Prometheus Metrics </br>
 http://localhost:9000
 
 
