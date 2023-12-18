@@ -107,12 +107,11 @@ if __name__ == '__main__':
                         reqEndTime = region['reqEndTime']['values'][percent]
                         serverTimePercentile.labels(hostName, country, "reqEndTime", percentile).set(responseTime)
 
+            time.sleep(10)
 
         except:
             time.sleep(5)
-            continue
-        
-        time.sleep(10)
+
 
             
 
